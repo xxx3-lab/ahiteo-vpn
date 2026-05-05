@@ -833,7 +833,7 @@ if __name__ == "__main__":
     save_exact(euro_black_final, FOLDER_EURO, "my_euro_all_BLACK.txt")
 
     # Генерация subscriptions_list.txt с динамическими ссылками
-    generate_subscriptions_list(ru_fast_files, ru_all_files, euro_fast_files, euro_all_files)
+    # generate_subscriptions_list(ru_fast_files, ru_all_files, euro_fast_files, euro_all_files)
 
     # ==================== ФИНАЛЬНЫЙ ОТЧЁТ ====================
     print("\n" + "=" * 55)
